@@ -4,7 +4,7 @@ return {
  		ensure_installed = {
  			"lua-language-server", "stylua",
  			"html-lsp", "css-lsp" , "prettier",
-      "pretty-php",
+      "pretty-php", "clang-format", "clangd"
  		},
  	},
  }
